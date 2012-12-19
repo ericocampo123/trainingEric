@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.training_eric.widgets.HelloEricWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>helloEric</label>
+  <description>Hello Word Eric</description>
+</widget>
